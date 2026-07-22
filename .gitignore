@@ -1,0 +1,26 @@
+# catkin / colcon workspace
+**/build/
+**/devel/
+**/install/
+**/log/
+.catkin_tools
+.catkin_workspace
+src/CMakeLists.txt
+
+# editors
+.vscode/
+**/.idea
+**/cmake-build-debug
+**/cmake-build-release
+
+# data
+**.bag
+**.db3
+**.pcd
+**.ply
+**.bin
+**.csv
+**.zip
+
+# os
+**.DS_Store

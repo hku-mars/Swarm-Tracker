@@ -24,9 +24,9 @@
 # Updates
 * The code will be released soon.
 * **Jul. 21, 2026** - 🎉 Our paper has been accepted by ***IEEE T-RO***!
-* **Oct. 5, 2023** - 🎉 Our [conference paper](https://ieeexplore.ieee.org/document/10341567) on swarm tracking was selected as an ***IROS 2023 Best Overall and Best Student Paper Award*** finalist!
+* **Oct. 5, 2023** - 🎉 Our [conference paper](https://ieeexplore.ieee.org/document/10341567) on swarm tracking was selected as an ***IROS 2023 Best Overall and Best Student Paper Award*** finalist.
 
-The T-RO preprint is available at [arXiv](https://arxiv.org/abs/2512.01280).
+The preprint of the T-RO paper is available at [arXiv](https://arxiv.org/abs/2512.01280).
 
 # System Overview
 

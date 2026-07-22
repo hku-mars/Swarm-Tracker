@@ -31,7 +31,7 @@ The T-RO preprint is available at [arXiv](https://arxiv.org/abs/2512.01280).
 # System Overview
 
 <p align="center">
-  <img src="./assets/system_architecture.png" width="80%"/>
+  <img src="./assets/system_architecture.png" width="90%"/>
 </p>
 
 Every UAV runs an identical, fully decentralized stack. Swarm-LIO2 provides onboard odometry and the swarm extrinsics from IMU and LiDAR inputs, while teammate maps, target measurements, and

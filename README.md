@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Swarm-Tracker</h1>
-    <h3>Visibility-aware Cooperative Aerial Tracking with<br/>Decentralized Swarms of LiDAR-based Robots</h3>
+    <h3>Visibility-Aware Cooperative Tracking with Decentralized<br/> LiDAR-Based Aerial Swarms</h3>
     <strong>IEEE Transactions on Robotics (T-RO) '26</strong>
     <br>
         <a href="https://github.com/YLJ6038" target="_blank">Longji Yin</a>,
@@ -19,6 +19,7 @@
     </p>
     <a href="https://arxiv.org/abs/2512.01280"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2512.01280-b31b1b?logo=arxiv&logoColor=white"/></a>
     <a href="https://www.bilibili.com/video/BV1tPKa6HE8z/"><img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-FB7299?logo=bilibili&logoColor=white"/></a>
+    <a href="https://www.youtube.com/watch?v=lTPE_JnsTPI"><img alt="YouTube" src="https://img.shields.io/badge/Video-YouTube-FF0000?logo=youtube&logoColor=white"/></a>
 </div>
 
 # Updates
@@ -45,13 +46,13 @@ trajectory optimization produce a collision-free, visibility-optimized trajector
 * **Passive targets, unknown environments** - there is no communication whatsoever between the target and the swarm, and the environments are completely unknown beforehand.
 * **Visibility maintenance** - the swarm tracks dynamic targets while keeping them fully visible in complex outdoor environments.
 
-(Click any clip to view the full demo video on Bilibili)
+(Click any clip to view the full demo video)
 
 ## Tracking a Human Runner at Night
-[![Video Demo](./assets/GIF_FM.gif)](https://www.bilibili.com/video/BV1tPKa6HE8z/)
+[![Video Demo](./assets/GIF_FM.gif)](https://www.youtube.com/watch?v=lTPE_JnsTPI)
 
 ## Tracking a Flying Drone in a Dense Forest
-[![Video Demo](./assets/GIF_RR.gif)](https://www.bilibili.com/video/BV1tPKa6HE8z/)
+[![Video Demo](./assets/GIF_RR.gif)](https://www.youtube.com/watch?v=lTPE_JnsTPI)
 
 ## Reconfigurable Swarm Tracking with Dynamic Joining & Leaving
-[![Video Demo](./assets/GIF_FT.gif)](https://www.bilibili.com/video/BV1tPKa6HE8z/)
+[![Video Demo](./assets/GIF_FT.gif)](https://www.youtube.com/watch?v=lTPE_JnsTPI)
